@@ -20,9 +20,10 @@ I like building developer tools, Common Lisp projects, terminal/workflow automat
 ## ongoing development
 
 - [`clawmacs`](https://github.com/htayj/clawmacs) — common lisp agent harness & agentic coding tool using mcclim. Attempting to synethesize the strengths of Emacs and Lisp Machines into agentic editors
-- [`lisp-machine-container-museum`](https://github.com/htayj/lisp-machine-container-museum) — containers for exploring historical Lisp machines
 - [`flaghack`](https://github.com/htayj/flaghack) — a roguelike
+- [`lisp-machine-container-museum`](https://github.com/htayj/lisp-machine-container-museum) — containers for exploring historical Lisp machines
 
 ## Personal config
 
-- [`src`](https://github.com/htayj/src) — My dotfiles & Guix config
+- [`src`](https://github.com/htayj/src) — dotfiles & Guix config
+- [`emacs.d`](https://github.com/htayj/emacs.d/tree/new) — emacs config
