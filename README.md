@@ -1,6 +1,6 @@
 # Hi, I'm Taylor
 
-I like building developer tools, Common Lisp projects, terminal/workflow automation, and small web apps.
+I like building developer tools, exploring functional programming and Lisp, and preserving the history of software and literature.
 
 ## My Interests
 
