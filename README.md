@@ -14,7 +14,7 @@ I like building developer tools, Common Lisp projects, terminal/workflow automat
 - Roguelike video games
 
 ## Things you can actually use right now
-- [`manna-cadet`](https://github.com/htayj/manna-cadet) — Space Cadet-inspired keyboard configuration - allows using all 5 (plus 1) space cadet modifier bits, plus shift, greek, and top.
+- [`manna-cadet`](https://github.com/htayj/manna-cadet) — Space Cadet-inspired keyboard configuration - allows simulating all 4 (C-M-s-H) space cadet bucky bits (plus one extra, "Alt" which is normally treated as Meta but can be bound separately, to a window manager for example, without interferring with the other bucky bits), plus plus shift, greek, and top. 
 - [`dec-fonts`](https://github.com/htayj/DEC-Fonts) - recreation of historical VT220 fonts ROM dumps usable in bdf, otb, and psf formats for modern computers
 
 ## ongoing development
