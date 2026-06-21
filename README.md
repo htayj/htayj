@@ -5,11 +5,13 @@ I like building developer tools, Common Lisp projects, terminal/workflow automat
 ## My Interests
 
 - TypeScript/React/Effect & Functional Programming
-- GNU Emacs, stumpwm, Common Lisp, CLIM, lisp machines
-- Guix, Nix & GNU/Linux
-- Linux configuration, keyboard layouts, and dotfiles
-- HCI - Ergonomic Keyboards, new ways of interfacing with a computer, power-user interfaces
+- GNU Emacs, stumpwm, Common Lisp, CLIM
+- Guix, Nix, & GNU/Linux
+- HCI - Ergonomic Keyboards, new ways of interfacing with computers, power-user interfaces
 - AI coding-agent tools
+- Lisp machines, DEC, and historical computing
+- Typesetting, preservation and accessibility of historical texts
+- Roguelike video games
 
 ## Things you can actually use
 - [`manna-cadet`](https://github.com/htayj/manna-cadet) — Space Cadet-inspired keyboard configuration - allows using all 5 (plus 1) space cadet modifier bits, plus greek and top.
